@@ -33,7 +33,7 @@ jobs:
 
       # Compila as classes Java
       - name: Compilar
-        run: javac Livro.java Main.java 
+        run: javac Livros.java Main.java 
 
       # Executa o programa
       - name: Executar
